@@ -1,1 +1,4 @@
 # Test-Generator
+This is my first time to write a Makefile.md.
+It is for generating input and output files for a coding contest, given random.cpp for generating input files(see in ./input) and ac.cpp for generating output files(./output). By default it will generate 20 test files in the form of test*.in and test*.out, the specific content depends on the two files mentioned above.
+To point out that, I intended to allow user to set his/her expected number of test files by adding a variable and do the loop, but failed because of my infamiliarness with markdown grammar. I will improve it later(after exams lol).
